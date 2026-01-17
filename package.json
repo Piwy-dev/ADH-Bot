@@ -1,7 +1,7 @@
 {
     "dependencies": {
         "axios": "^1.7.4",
-        "canvas": "^2.11.0",
+        "canvas": "^3.2.1",
         "discord.js": "^14.9.0",
         "dotenv": "^10.0.0",
         "fs": "^0.0.1-security",
